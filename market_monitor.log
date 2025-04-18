@@ -1,0 +1,260 @@
+2025-04-17 17:05:52,796 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:05:53,308 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:06:53,951 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:06:54,480 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:06:55,077 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:09:50,287 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:09:50,763 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:10:51,293 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:10:51,713 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:10:52,118 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:11:54,532 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:11:56,061 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:12:56,634 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:12:57,192 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:12:57,577 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:14:00,109 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:14:00,608 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:14:01,070 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:17:10,010 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:17:10,013 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:18:10,043 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:18:10,061 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:18:10,652 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:19:13,717 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:19:13,736 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:19:13,744 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:19:13,755 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:20:13,999 - ERROR - Error processing bitcoin: main thread is not in main loop
+2025-04-17 17:22:51,174 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:23:51,583 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:23:51,587 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:23:51,589 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:23:51,623 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:23:54,115 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:24:54,549 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:24:54,553 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:24:54,566 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:24:54,580 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:24:57,389 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:24:57,400 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:24:57,403 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:25:57,914 - ERROR - Error processing ethereum: main thread is not in main loop
+2025-04-17 17:26:01,766 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:26:01,785 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:26:01,786 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:26:01,788 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:26:01,790 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:27:04,988 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:27:05,016 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:27:05,030 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:27:05,049 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:27:05,059 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:29:07,885 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:30:08,185 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:31:08,438 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:31:08,447 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:31:08,447 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:31:11,450 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:31:11,459 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:31:11,479 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:31:11,489 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:33:11,116 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:33:14,299 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:33:14,314 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:33:14,360 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:33:14,366 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:33:14,377 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:34:17,162 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:35:17,083 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:35:17,391 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:36:17,417 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:36:18,496 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:36:21,086 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:36:21,088 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:37:21,361 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:37:21,366 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:37:21,372 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:38:24,343 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:38:24,349 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:38:24,380 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:39:24,154 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:39:24,363 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:40:27,342 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:40:27,362 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:41:27,530 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:41:27,642 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:41:27,646 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:42:30,829 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:42:30,859 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:42:30,884 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:42:30,887 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:42:30,910 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:43:34,054 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:43:34,069 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:43:34,077 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:43:34,080 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:44:33,975 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:44:36,970 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:44:36,979 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:44:36,981 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:44:36,989 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:45:36,665 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:45:39,237 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:46:39,198 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:46:39,594 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:46:39,647 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:46:39,654 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:47:42,634 - ERROR - Backtest error for bitcoin: Column '_name' not in data
+2025-04-17 17:47:42,671 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:47:42,678 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:47:42,681 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:48:42,148 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:48:45,237 - ERROR - Backtest error for binancecoin: Column '_name' not in data
+2025-04-17 17:48:45,254 - ERROR - Backtest error for cardano: Column '_name' not in data
+2025-04-17 17:48:45,282 - ERROR - Backtest error for ripple: Column '_name' not in data
+2025-04-17 17:48:45,284 - ERROR - Backtest error for ethereum: Column '_name' not in data
+2025-04-17 17:49:46,236 - ERROR - Error processing bitcoin: main thread is not in main loop
+2025-04-17 17:49:49,281 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 17:50:48,883 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 17:50:49,028 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 17:50:49,032 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 17:50:49,083 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 17:51:49,772 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 17:52:50,264 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 17:52:50,280 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 17:52:50,281 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 17:52:57,914 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 17:53:00,204 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 17:53:00,549 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 17:53:00,552 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 17:54:00,692 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 17:54:00,696 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 17:54:00,809 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 17:55:01,387 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 17:55:01,402 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 17:55:01,420 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 17:56:01,145 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 17:56:03,432 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 17:56:03,672 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 17:58:04,025 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 17:58:04,095 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 17:58:04,101 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 17:59:04,120 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:00:04,445 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:00:04,764 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:01:04,892 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:01:04,903 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:03:06,835 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:03:07,326 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:04:07,711 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:04:07,860 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:05:07,916 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:05:08,206 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:06:08,470 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:07:08,833 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:07:08,859 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:07:08,921 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:08:11,251 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:09:10,603 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:09:11,204 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:11:11,826 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:11:11,929 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:11:11,989 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:12:12,113 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:12:12,148 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:13:12,665 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:13:12,806 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:14:15,103 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:14:15,459 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:15:15,529 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:16:15,890 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:16:15,925 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:17:15,936 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:17:16,233 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:18:16,440 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:19:16,808 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:19:16,814 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:19:19,051 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:21:19,645 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:21:19,874 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:21:19,884 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:21:19,891 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:22:20,169 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:23:20,485 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:24:21,006 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:24:21,020 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:24:21,035 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:25:23,362 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:26:24,255 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:26:24,259 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:27:23,974 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:27:24,279 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:27:24,323 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:28:24,255 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:29:24,809 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:29:25,111 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:29:25,171 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:30:27,492 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:31:28,215 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:31:28,229 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:32:28,296 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:32:28,296 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:32:28,566 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:33:28,849 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:34:28,955 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:34:29,198 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:34:29,198 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:34:31,454 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:34:31,770 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:34:31,772 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:35:31,852 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:36:32,305 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:36:32,337 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:36:32,501 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:37:31,812 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:37:32,298 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:37:32,705 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:37:35,038 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:37:35,370 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:38:34,716 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:38:35,046 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:39:34,695 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:39:35,232 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:39:35,688 - ERROR - Backtest error for arbitrum: Column '_name' not in data
+2025-04-17 18:40:35,312 - ERROR - Error fetching algorand: {'status': {'error_code': 429, 'error_message': "You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+2025-04-17 18:40:36,382 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:40:36,413 - ERROR - Backtest error for optimism: Column '_name' not in data
+2025-04-17 18:40:39,192 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:40:39,197 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:41:38,726 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:41:38,736 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:42:39,933 - ERROR - Error processing hedera-hashgraph: main thread is not in main loop
+2025-04-17 18:43:43,406 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:44:43,820 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:44:44,031 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:45:44,248 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:45:44,398 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:45:44,400 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:46:44,989 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:46:45,010 - ERROR - Backtest error for near: Column '_name' not in data
+2025-04-17 18:47:46,061 - ERROR - Error processing arbitrum: main thread is not in main loop
+2025-04-17 18:47:49,127 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:47:49,378 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:47:49,388 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:48:49,320 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:48:49,713 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:48:49,767 - ERROR - Backtest error for algorand: Column '_name' not in data
+2025-04-17 18:49:49,866 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:51:36,955 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:52:37,448 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:52:38,204 - ERROR - Backtest error for solana: Column '_name' not in data
+2025-04-17 18:53:37,536 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:53:37,568 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:54:38,937 - ERROR - Error processing algorand: main thread is not in main loop
+2025-04-17 18:55:37,997 - ERROR - Error fetching avalanche: {'error': 'coin not found'}
+2025-04-17 18:55:38,719 - ERROR - Backtest error for fantom: Column '_name' not in data
+2025-04-17 18:55:38,862 - ERROR - Backtest error for cosmos: Column '_name' not in data
+2025-04-17 18:56:37,519 - ERROR - Backtest error for matic-network: Column '_name' not in data
+2025-04-17 18:57:38,679 - ERROR - Backtest error for hedera-hashgraph: Column '_name' not in data
+2025-04-17 18:58:39,408 - ERROR - Error processing algorand: main thread is not in main loop
